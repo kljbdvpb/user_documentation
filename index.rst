@@ -3,33 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Benutzeranleitung für hitobito
+Benutzeranleitung für die KLJB Mitgliederdatenbank
 ==============================
 
-Hier findest du die generische Benutzerdokumentatio für hitobito.
-
-Du kannst selbst deinen Beitrag leisten und Ergänzungen vornehmen, in dem du auf  _Github: https://github.com/hitobito/user_documentation Korrekturen an den Anleitungsseiten vornimmst. Wenn dir das zu kompliziert ist, kannst du einfach auch Änderungen, Ergänzungen über _dieses Formular: https://github.com/hitobito/user_documentation/issues/new vorschlagen.
+Hier findest du grundlegende Informationen zur KLJB Mitgliederdatenbank, auch ZMV genannt. Für darüberhinausgehende Fragen wende dich bitte an das Diözesanbüro unter buero@kljb-paderborn.de.
 
 
 
 .. toctree::
   :maxdepth: 3
   :caption: Anleitung
-
+  person
+  mitgliedermeldung
   roles
   people_filter
   tags
   mailing_lists
-  invoices
   access_concept
-
-.. toctree::
-  :maxdepth: 3
-  :caption: Anbindung
-
-  mailing_lists_mailchimp_export
-
-
 
 
 ..  Indices and tables
