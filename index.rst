@@ -13,8 +13,7 @@ Hier findest du grundlegende Informationen zur KLJB Mitgliederdatenbank, auch ZM
 .. toctree::
   :maxdepth: 3
   :caption: Anleitung
-  person
-  mitgliedermeldung
+
   roles
   people_filter
   tags
